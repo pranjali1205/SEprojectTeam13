@@ -1,7 +1,7 @@
 # SEprojectTeam13
 We have developed a web application using mern stack for the following modules :
 
- 1. Login for student and teacher:
+ <b>1. Login for student and teacher:</b>
   This is for user to login to his/her account. this module also ensures security.
   
  2. Reimbursement Claim:
