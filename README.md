@@ -28,7 +28,7 @@ We have developed a web application using mern stack for the following modules :
   This module is used to store the information of user (student / staff)in their respective database.
   <br>
   
- <b><u>6. Steps to run :</u></b><br>
+ <b><u>Steps to run :</u></b><br>
  Once you get into vs code with all these files in window 
  - For backend open terminal and type command npm run dev and that its it will take few seconds to connect.
  - b.	For Frontend open terminal and type command npm start and similarly it will take few seconds and will open window in browser and display webpage.
