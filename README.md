@@ -29,7 +29,7 @@ We have developed a web application using mern stack for the following modules :
   <br>
   <br>
   
- #### Steps to run our application:
+ ## Steps to run our application:
   Once you get into vs code with all these files in window 
  - For backend open terminal and type command npm run dev and that its it will take few seconds to connect.
  - For Frontend open terminal and type command npm start and similarly it will take few seconds and will open window in browser and display webpage.
