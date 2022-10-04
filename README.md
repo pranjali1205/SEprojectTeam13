@@ -47,6 +47,6 @@ We have developed a web application using mern stack for the following modules :
     - npm i history
     - npm i react
     - npm i react-dom
-    - npm i react-router-dom
-<br>5.create config.env file in server folder.
+    - npm i react-router-dom<br>
+5.create config.env file in server folder.
 
