@@ -30,6 +30,22 @@ We have developed a web application using mern stack for the following modules :
   <br>
   
  ## Steps to run our application:
-  Once you get into vs code with all these files in window 
- - For backend open terminal and type command npm run dev and that its it will take few seconds to connect.
- - For Frontend open terminal and type command npm start and similarly it will take few seconds and will open window in browser and display webpage.
+ 1. Download the entire code as zip file.
+ 2. Extract the files into some folder.
+ 3. Now poen this folder in code edititor (like vscode).
+ 4. Now run the following commands in terminal of the code editior (make sure you are inside the folder location in terminal).
+    - cd server
+    - npm i express
+    - npm i nodemon
+    - npm i mongoose
+    - npm i dotenv
+    - npm i bcrypts
+
+    - cd ..
+    - cd client
+    - npm i bootstrap
+    - npm i history
+    - npm i react
+    - npm i react-dom
+    - npm i react-router-dom<br>
+5.create config.env file in server folder.
