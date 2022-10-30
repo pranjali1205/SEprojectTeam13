@@ -96,42 +96,43 @@ This project also demonstrates:
  * npm run devStart
 
 ### All dependencies
+<br>
 
-- Frontend::
+*  Frontend::
+  {<br>
+  "@testing-library/jest-dom": "^4.2.4",<br>
+  "@testing-library/react": "^9.3.2",<br>
+  "@testing-library/user-event": "^7.1.2"<br>,
+  "@types/date-fns": "^2.6.0",<br>
+  "axios": "^0.19.2",<br>
+  "bootstrap": "^4.5.0",<br>
+  "jwt-decode": "^2.2.0",<br>
+  "react": "^16.13.1",<br>
+  "react-credit-cards": "^0.8.2",<br>
+  "react-datepicker": "^2.16.0",<br>
+  "react-dom": "^16.13.1",<br>
+  "react-icons": "^3.10.0",<br>
+  "react-router-dom": "^5.2.0",<br>
+  "react-scripts": "^3.4.4",<br>
+  "react-transition-group": "^4.4.1",<br>
+  "redux": "^4.0.5"<br>
+  }<br>
+*  Backend::
   {
-  "@testing-library/jest-dom": "^4.2.4",
-  "@testing-library/react": "^9.3.2",
-  "@testing-library/user-event": "^7.1.2",
-  "@types/date-fns": "^2.6.0",
-  "axios": "^0.19.2",
-  "bootstrap": "^4.5.0",
-  "jwt-decode": "^2.2.0",
-  "react": "^16.13.1",
-  "react-credit-cards": "^0.8.2",
-  "react-datepicker": "^2.16.0",
-  "react-dom": "^16.13.1",
-  "react-icons": "^3.10.0",
-  "react-router-dom": "^5.2.0",
-  "react-scripts": "^3.4.4",
-  "react-transition-group": "^4.4.1",
-  "redux": "^4.0.5"
-  }
-- Backend::
-  {
-  "bcrypt": "^4.0.1",
-  "bcryptjs": "^2.4.3",
-  "body-parser": "^1.19.0",
-  "cookie-parser": "~1.4.4",
-  "cors": "^2.8.5",
-  "debug": "~2.6.9",
-  "express": "~4.16.1",
-  "express-session": "^1.17.1",
-  "jsonwebtoken": "^8.5.1",
-  "moment": "^2.26.0",
-  "mongoose": "^5.9.16",
-  "morgan": "~1.9.1",
-  "passport": "^0.4.1",
-  "passport-jwt": "^4.0.0",
-  "passport-local": "^1.0.0"
+  "bcrypt": "^4.0.1",<br>
+  "bcryptjs": "^2.4.3",<br>
+  "body-parser": "^1.19.0",<br>
+  "cookie-parser": "~1.4.4",<br>
+  "cors": "^2.8.5",<br>
+  "debug": "~2.6.9",<br>
+  "express": "~4.16.1",<br>
+  "express-session": "^1.17.1",<br>
+  "jsonwebtoken": "^8.5.1",<br>
+  "moment": "^2.26.0",<br>
+  "mongoose": "^5.9.16",<br>
+  "morgan": "~1.9.1",<br>
+  "passport": "^0.4.1",<br>
+  "passport-jwt": "^4.0.0",<br>
+  "passport-local": "^1.0.0"<br>
   }
 
