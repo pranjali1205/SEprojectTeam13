@@ -25,7 +25,7 @@ export default function Profile({ history }) {
         <
         div className = 'details' >
         <
-        img src = 'https://images.unsplash.com/photo-1517365830460-955ce3ccd263?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=b38c22a46932485790a3f52c61fcbe5a'
+        img src = {require('./profile.png')}
         alt = 'abc'
         className = 'profile-pic' /
         >
