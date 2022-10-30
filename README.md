@@ -97,7 +97,7 @@ This project also demonstrates:
 
 ### All dependencies
 
-- Frontend
+- Frontend::
   {
   "@testing-library/jest-dom": "^4.2.4",
   "@testing-library/react": "^9.3.2",
@@ -116,7 +116,7 @@ This project also demonstrates:
   "react-transition-group": "^4.4.1",
   "redux": "^4.0.5"
   }
-- Backend
+- Backend::
   {
   "bcrypt": "^4.0.1",
   "bcryptjs": "^2.4.3",
