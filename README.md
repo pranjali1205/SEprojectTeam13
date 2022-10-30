@@ -79,21 +79,21 @@ This project also demonstrates:
 * Clone this repo
 
 * Install node modules
-  cd {your directory name}
-   cd frontend
-   npm install
-   cd..
-   cd backend
-   npm install
+ * cd {your directory name}
+ * cd frontend
+ *  npm install
+ * cd..
+ * cd backend
+ *  npm install
 
 
 ### Then start both frontend and backend in terminal
 
-  cd frontend
-  npm start
-  cd..
-  cd backend
-  npm run devStart
+ * cd frontend
+ * npm start
+ * cd..
+ * cd backend
+ * npm run devStart
 
 
 
