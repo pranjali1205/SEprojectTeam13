@@ -1,5 +1,5 @@
 
-### SE PROJECT BY TEAM 10 
+### SE PROJECT BY TEAM 13 
 { using MERN Stack (MongoDB, Express js, React js, Node js) }
 
 ## We have developed a web application using mern stack for the following modules :
