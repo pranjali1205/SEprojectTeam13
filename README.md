@@ -1,6 +1,6 @@
 
 ### SE PROJECT BY TEAM 13 
-{ using MERN Stack (MongoDB, Express js, React js, Node js) }
+{ using MERN Stack (MongoDB, Express js, React js, Node js) } <br>
 github link - https://github.com/pranjali1205/SEprojectTeam13
 
 ## We have developed a web application using mern stack for the following modules :
@@ -73,30 +73,28 @@ This project also demonstrates:
 
 
 
-### Steps to run
+### Steps to run :-
 
-
-
-* Clone this repo
-
-* Install node modules
+<br>
+1 ) Clone this repo into a folder
+<br>
+2) Then install node modules, steps for this :
  * cd {your directory name}
  * cd frontend
  *  npm install
  * cd..
  * cd backend
  *  npm install
-
-
-### Then start both frontend and backend in terminal
-
+<br>
+3) Then start both frontend and backend in terminal , steps for this :
  * cd frontend
  * npm start
  * cd..
  * cd backend
  * npm run devStart
+ 
 
-### All dependencies
+### All dependencies of our project:- 
 <br>
 
 *  Frontend::
