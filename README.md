@@ -76,9 +76,9 @@ This project also demonstrates:
 ### Steps to run :-
 
 <br>
-* 1 ) Clone this repo into a folder
+1 ) Clone this repo into a folder
 <br>
-* 2) Then install node modules, steps for this : <br>
+2) Then install node modules, steps for this : <br>
  * cd {your directory name} <br>
  * cd frontend <br>
  *  npm install <br>
@@ -86,7 +86,7 @@ This project also demonstrates:
  * cd backend <br>
  *  npm install <br>
 <br>
-* 3) Then start both frontend and backend in terminal , steps for this : <br>
+3) Then start both frontend and backend in terminal , steps for this : <br>
  * cd frontend <br>
  * npm start v
  * cd.. <br>
