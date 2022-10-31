@@ -76,8 +76,9 @@ This project also demonstrates:
 ### Steps to run :-
 
 <br>
-1 ) Clone this repo into a folder
+1) Clone this repo into a folder
 <br>
+<br> 
 2) Then install node modules, steps for this : <br>
  * cd {your directory name} <br>
  * cd frontend <br>
